@@ -1,0 +1,6 @@
+name: ExtraRecipes
+version: 0.5
+main: me.mazenz.extrarecipes.ExtraRecipes
+api-version: 1.16
+authors: [GKasparov]
+description: Adds some more useful recipes to Minecraft

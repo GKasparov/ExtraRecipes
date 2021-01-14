@@ -1,0 +1,23 @@
+#ENSURE YOU SET EACH OPTION TO EITHER "TRUE" OR "FALSE" THE DEFAULT IS TRUE
+
+#Blocks
+quartz: true
+diamond: true
+coal: true
+emerald: true
+gold: true
+iron: true
+barrier: true
+netherrack: true
+cactus: true
+
+#Miscellaneous
+saddle: true
+nametag: true
+web: true
+skull: true
+tripwire: true
+portal: true
+elytra: true
+enderpearl: true
+netherstar: true
